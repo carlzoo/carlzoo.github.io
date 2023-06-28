@@ -1,7 +1,7 @@
 ---
 title: Analyzing an Unusual Web Data Format
 author: Carl Zhou
-date: 2023-06-?? 11:33:00 +0800
+date: 2023-06-30 11:33:00 +0800
 categories: [Tech]
 tags: [cryptography, api, web, javascript, json, data-scraping]
 pin: false
