@@ -33,7 +33,7 @@ The extension enables user-selection via CSS style change by JavaScript in the c
 
 I attempted to publish the extension to the Chrome store. However it was rejected for "facilitating of gambling". 
 
-![Pinnacle NBA Outright with copy and pasting via right click](/assets/pinnacle-golf-outrights.png "We can select, copy, and paste text now.").
+![Pinnacle NBA Outright with copy and pasting via right click](/assets/pinnacle-outrights.png "We can select, copy, and paste text now.").
 
 I researched this policy and I found that there currently exists several extensions in the Chrome store for "facilitating of gambling". Here are a few:
 
